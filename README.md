@@ -10,6 +10,6 @@ e acessiveis para todas os usuários. Em constante evolução, sempre estudando!
 - HTML, CSS
 - Git e GitHub
 
-## Contate-me
+## Vamos nos conectar? 
 - [LinkedIn](www.linkedin.com/in/willian-moura-ux)
 
