@@ -24,6 +24,6 @@ e acessiveis para todos os usuários.
   <img align="center" alt="Dan-AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-%23FF26A1.svg?style=for-the-badge&logo=adobe-xd&logoColor=white">
 </div>
 
-## Vamos nos conectar? 
+## 🌐 Vamos nos conectar? 
 - [LinkedIn](www.linkedin.com/in/willian-moura-ux)
 
