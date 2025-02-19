@@ -5,7 +5,8 @@ e acessiveis para todos os usuários.
 <div align="left">
   <a href="https://github.com/moura-ux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moura-ux&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moura-ux&layout=compact&theme=gruvbox&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moura-ux&layout=compact&theme=gruvbox&hide_border=true"/>
+
 </div>
 
 ## Tecnologias que uso
